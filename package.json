@@ -1,0 +1,19 @@
+{
+  "name": "rxjs-and-observables",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.ts",
+  "dependencies": {
+    "rxjs": "^7.5.5"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15",
+    "ts-node": "^10.7.0",
+    "typescript": "^4.6.3"
+  },
+  "scripts": {
+    "start": "ts-node index.ts"
+  },
+  "author": "",
+  "license": "ISC"
+}
